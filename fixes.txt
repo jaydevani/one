@@ -1,2 +1,2 @@
-i am a fix file which will be use to fix git code
+i am a fix file which will be use to fix git code.
 
